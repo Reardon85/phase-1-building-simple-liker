@@ -4,6 +4,7 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const test = 4; 
 
 
 
